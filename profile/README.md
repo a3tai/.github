@@ -31,4 +31,10 @@ secure isolation    sandbox per agent, least-privilege tool grants, full audit l
 | [a3tai/bspec](https://github.com/a3tai/bspec) | Behavioral spec framework. |
 | [a3tai/mcp-pdf-reader](https://github.com/a3tai/mcp-pdf-reader) | MCP server for PDF ingestion. |
 
+## Coming soon
+
+**Desktop client** — local gateway, command palette, voice/STT, session history. macOS + Windows.
+
+**Mobile app** — iOS client with Face ID, voice, and glass morphism UI.
+
 → [a3t.ai](https://a3t.ai)
