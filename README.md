@@ -1,20 +1,7 @@
-# .github Repository
+# a3tai/.github
 
-This is A3T's special `.github` repository containing organizational metadata and configuration files for our GitHub presence.
+Org-level GitHub configuration for [Agent Three](https://a3t.ai).
 
-## What's Here
+- `profile/README.md` — organization profile shown on [github.com/a3tai](https://github.com/a3tai)
 
-- `profile/README.md` - Our organization profile README that appears on our GitHub organization page
-- Additional GitHub metadata and configuration files as needed
-
-## Purpose
-
-This repository serves as the central location for:
-- Organization profile information
-- GitHub-specific configurations
-- Organizational templates and workflows
-- Community health files
-
----
-
-**A3T AI** - Building the future of agentic workflows
+That's it.
