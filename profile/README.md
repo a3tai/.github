@@ -23,12 +23,12 @@ verifiable outputs  schema validation, postconditions enforced
 secure isolation    sandbox per agent, least-privilege tool grants, full audit log
 ```
 
-## Active repos
+## Open source
 
 | repo | what it is |
 |------|-----------|
-| [a3tai/core](https://github.com/a3tai/core) | Multi-tenant auth + agent runtime. Go, Ory stack, Temporal, gRPC. Runs on EKS. |
-| [a3tai/desktop](https://github.com/a3tai/desktop) | Wails v2 desktop app — local gateway, command palette, voice/STT, session history. |
-| [a3tai/chatapp](https://github.com/a3tai/chatapp) | iOS client — SwiftUI, Face ID, voice, glass morphism. Dark terminal-meets-native. |
+| [a3tai/openclaw-go](https://github.com/a3tai/openclaw-go) | Go SDK for the OpenClaw gateway protocol. |
+| [a3tai/bspec](https://github.com/a3tai/bspec) | Behavioral spec framework. |
+| [a3tai/mcp-pdf-reader](https://github.com/a3tai/mcp-pdf-reader) | MCP server for PDF ingestion. |
 
 → [a3t.ai](https://a3t.ai)
