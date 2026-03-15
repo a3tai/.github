@@ -10,7 +10,7 @@ A3T is the runtime they say yes to. Every agent run is a workflow — cancellabl
 
 ## Tech
 
-`Go · Temporal · Ory (Kratos/Hydra/Keto) · gRPC · PostgreSQL · Swift · Wails · Kubernetes · Cloudflare Tunnels`
+`Next · Go · gRPC · PostgreSQL · Swift · Wails · Kubernetes`
 
 ## Trust primitives
 
