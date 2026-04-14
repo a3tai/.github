@@ -25,7 +25,6 @@ secure isolation    sandbox per agent, least-privilege tool grants, full audit l
 
 | repo | what it is |
 |------|-----------|
-| [a3tai/desktop](https://github.com/a3tai/desktop) | Wails v2 desktop app — local gateway, command palette, voice/STT, session history. |
-| [a3tai/chatapp](https://github.com/a3tai/chatapp) | iOS client — SwiftUI, Face ID, voice, glass morphism. Dark terminal-meets-native. |
+| [a3tai/openclaw-go](https://github.com/a3tai/openclaw-go) | Golang OpenClaw API client and server for building OpenClaw compatible applications. |
 
 → [a3t.ai](https://a3t.ai)
